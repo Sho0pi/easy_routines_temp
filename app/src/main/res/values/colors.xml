@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="file_color">#4285f4</color>
+    <color name="file_color_dark">#4689f8</color>
+    <color name="back_file_color">#dae8ff</color>
+    <color name="back_file_color_dark">#001c32</color>
+    <color name="billing_color">#e63946</color>
+    <color name="billing_color_dark">#e42535</color>
+    <color name="back_billing_color">#fdedee</color>
+    <color name="back_billing_color_dark">#1c0000</color>
+
+</resources>

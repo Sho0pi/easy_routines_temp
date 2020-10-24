@@ -1,0 +1,20 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowDisablePreview">true</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="ToolBarStyle">
+        <item name="android:textColorPrimary">?android:attr/colorPrimary</item>
+        <item name="android:textColorSecondary">?android:attr/colorPrimary</item>
+        <item name="android:itemTextAppearance">@style/menu_item</item>
+    </style>
+
+    <style name="menu_item">
+        <item name="android:textColor">?android:attr/textColorTertiary</item>
+    </style>
+
+</resources>
